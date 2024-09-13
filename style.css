@@ -1,0 +1,39 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #384454;
+}
+
+body {
+    align-items: center;
+}
+
+.title-1 {
+    text-align: center;
+}
+
+.liste-recette {
+    text-decoration: none;
+}
+
+.liste-recette li {
+    list-style-type: none;
+    margin: 5px;
+    border: 2px solid #D4D3DC;
+    border-radius: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #317AC1;
+}
+
+.liste-recette li a {
+    text-decoration: none;
+    color: #8CACD3;
+    font-family: 'open sans';
+}
+
+.liste-recette li:hover{
+    color: aliceblue;
+}
